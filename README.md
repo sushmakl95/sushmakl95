@@ -2,7 +2,7 @@
 
 **Senior Data Engineer** · Bengaluru, India · 8+ years building data platforms across AWS and GCP.
 
-I design and ship production data pipelines that are reliable, observable, and cost-aware. Currently a full-time engineer on the PDP J3 Sell team at **John Lewis Partnership**, with parallel freelance work building AWS-native data pipelines for **Mensa Brand Technologies**.
+I design and ship production data pipelines that are reliable, observable, and cost-aware. Currently a full-time engineer at **Equal Experts**, with parallel freelance work building AWS-native data pipelines for **top clients in the BFSI & Telecom domain**.
 
 ---
 
